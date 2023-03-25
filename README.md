@@ -47,3 +47,17 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
   브라우저에 해당 사이트 열림
   (ex) git help clone
 
+* git config(설정)
+  git config --global (전역, 로컬 전체)
+  git config --global user.name
+
+  git config user.name (global을 빼면 해당 프로젝트만)
+  (ex) git config user.name hello
+
+  git config --global --list (전역으로 설정된 것들)
+  git config --global
+
+  로컬과 원격을 똑같이 push 해두겠다
+  git config --global push.default current
+
+  
