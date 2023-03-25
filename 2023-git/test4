@@ -2,9 +2,3 @@
 TITLE : TEST4
 
 ###################################
-
-로컬
-git reset --hard (test3)
-
-원격저장소
-git push -f origin master 
