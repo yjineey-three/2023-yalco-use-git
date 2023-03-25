@@ -84,3 +84,6 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
   git stash / git stash pop
 
+* commit 수정하기 (push 단계전에)
+  git commit --ament
+
