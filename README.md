@@ -77,3 +77,10 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
   사용하기 싫으면 해당부분 삭제
 
+* git stash 하기
+  작업중에 추가 작업 요청이 들어오면 (다른공간에 현재 작업물을 치워놓는)
+  > 작업중... 이라는 commit 은 별로 좋지 않음
+  > 한개의 작업끼리 모아서 commit 하는게 좋으므로
+
+  git stash / git stash pop
+
