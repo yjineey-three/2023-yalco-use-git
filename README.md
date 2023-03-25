@@ -69,3 +69,11 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
   perf : 성능 개선
   test : 테스트 추가
   chore : 빌드과정, 보조기능 수정
+
+* edit 모드로 사용하기
+  git config --global -e  (추가 작성)
+  [core]
+	editor = code --wait
+
+  사용하기 싫으면 해당부분 삭제
+
