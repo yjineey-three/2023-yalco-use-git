@@ -40,3 +40,10 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 * git reset --hard HEAD-2 (두단계 뒤로 reset)
   reset도 HEAD 기준으로 편하게 가능
+
+* git help (명령어)
+  git help >> 간단한 명령어
+
+  브라우저에 해당 사이트 열림
+  (ex) git help clone
+
