@@ -60,4 +60,12 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
   로컬과 원격을 똑같이 push 해두겠다
   git config --global push.default current
 
-  
+* 컨벤션
+  feat : 새로운 기능 추가
+  fix : 버그 수정
+  docs : 문서 수정
+  style : 공백, 세미콜론 등 스타일 수정
+  refactor : 코드 리팩토링
+  perf : 성능 개선
+  test : 테스트 추가
+  chore : 빌드과정, 보조기능 수정
