@@ -2,8 +2,3 @@
 TITLE : TEST2
 
 ###################################
-
-git pull 실패
-
-git push --set-upstream origin zzini  > 원격저장소 생성 > git pull / push 성공
-
