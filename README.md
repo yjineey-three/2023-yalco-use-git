@@ -21,9 +21,3 @@ git push -f origin main
 * merge 와 rebase 차이
 merge는 이전 branch history가 유지된다 (main으로 이동)
 rebase는 merge시 이전 branch history가 삭제 된다 (rebase 브랜치로 이동)
-
-
-# 큰 제목
-## 작은 제목
-
-### 더 작은 제목
