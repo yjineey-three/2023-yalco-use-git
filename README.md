@@ -87,3 +87,6 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 * commit 수정하기 (push 단계전에)
   git commit --ament
 
+
+* git reset --hard HEAD-2 (두단계 뒤로 reset)
+  reset도 HEAD 기준으로 편하게 가능
