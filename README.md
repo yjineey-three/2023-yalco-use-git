@@ -35,7 +35,7 @@ git push (origin) --delete (브랜치명)
 
   git checkout ~ (뒤로 한칸)
   git checkout ~~~ (뒤로 세칸)  
-  
+
   git checkout - (ctrl + z)
 
-* 
+* git reset --hard HEAD-2 (두단계 뒤로 reset)
