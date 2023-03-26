@@ -12,7 +12,7 @@ https://www.yalco.kr/lectures/git-github/
 
 * merge 와 fastforward
   1. git merge (브랜치명)
-  2. git merge --no --ff (병합할 브랜치명) > ff(Fast forwoard 약자)
+  2. git merge --no-ff (병합할 브랜치명) > ff(Fast forwoard 약자)
 
 * merge 와 rebase 차이
   merge는 이전 branch history가 유지된다 (main으로 이동)
