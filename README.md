@@ -6,7 +6,10 @@ https://www.youtube.com/watch?v=1I3hMwQU6GU
 https://www.yalco.kr/lectures/git-github/
 
 `yalco 인강 정리`
-* git commit -am '커밋내용'
+* git commit -am '커밋내용'; git push
+
+* commit 작성자 찾기
+  git blame (파일명) > git lends로 확인하는게 더 편함
 
 <!---------------------------------------------------------------------->
 
