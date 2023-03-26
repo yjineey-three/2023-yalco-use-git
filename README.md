@@ -18,6 +18,9 @@ https://www.yalco.kr/lectures/git-github/
   merge는 이전 branch history가 유지된다 (main으로 이동)
   rebase는 merge시 이전 branch history가 삭제 된다 (rebase 브랜치로 이동)
 
+* git clean
+  관리하지 않은 파일 삭제
+
 <!---------------------------------------------------------------------->
 
 * 로컬에서 커밋 reset 위치로 가고 싶을 때, 내가 선택한거 전으로 이동
