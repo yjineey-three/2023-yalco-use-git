@@ -1,0 +1,16 @@
+
+TITLE : COMMIT
+
+###################################
+
+TEAM : B
+
+COACH : B-B
+
+MEMBER : B-B-B
+
+STAGE 확인 : 나중에 올리기
+
+COMMIT : 커밋확인
+
+git commit -v > 현재 커밋에 어떤 부분들이 반영될지 미리 확인 가능
