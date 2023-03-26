@@ -102,3 +102,9 @@ https://www.yalco.kr/lectures/git-github/
   annotatied
   git tag -a (tag명)
     
+  원격저장소에 tag 달기
+  git push origin (tag명)
+  git push --delete origin (태그명)
+
+  로컬의 모든 태그 원격에 올리기
+  git push --tags
