@@ -117,3 +117,6 @@ https://www.yalco.kr/lectures/git-github/
 
   로컬의 모든 태그 원격에 올리기
   git push --tags
+
+  * cheery-pick
+  git cherry-pick (커밋)
