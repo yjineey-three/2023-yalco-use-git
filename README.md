@@ -18,6 +18,9 @@ https://www.yalco.kr/lectures/git-github/
   merge는 이전 branch history가 유지된다 (main으로 이동)
   rebase는 merge시 이전 branch history가 삭제 된다 (rebase 브랜치로 이동)
 
+* git merge --squash (브런치)
+  merge가 바로 되는것이 아닌 stage상태롬나 올라간다. 확인 후 올리면 됨
+
 * git clean
   관리하지 않은 파일 삭제
 
